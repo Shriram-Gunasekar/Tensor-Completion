@@ -7,4 +7,4 @@ Key Features:
     Implementation of tensor completion algorithms for image smoothing, matrix completion, and tensor completion.
     Usage of Neural ODEs for image completion and smoothing.
     Reinforcement learning approach with DQN for matrix completion.
-    Application of Riemannian optimization methods for tensor completion.
+    Application of Riemannian GCN optimization methods for tensor completion.
